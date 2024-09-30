@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ucoldyadi.github.io/sitemap.html.gz
+Sitemap: https://ucoldyadi.github.io/app/sitemap.html.gz
+Sitemap: https://ucoldyadi.github.io/assets/sitemap.html.gz
+Sitemap: https://ucoldyadi.github.io/css/sitemap.html.gz
+Sitemap: https://ucoldyadi.github.io/data/sitemap.html.gz
+Sitemap: https://ucoldyadi.github.io/includes/sitemap.html.gz
+Sitemap: https://ucoldyadi.github.io/item/sitemap.html.gz
+Sitemap: https://ucoldyadi.github.io/src/sitemap.html.gz
